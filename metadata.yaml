@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37
     wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18201#David-Copperfield-IIDavid-Copperfield-nuoremman-el-m-kerta-ja-kokemukset
 gutenberg_bookshelf: Harvard Classics
 gutenberg_issued: '2006-04-18'
 gutenberg_type: Text
